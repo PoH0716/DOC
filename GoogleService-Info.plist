@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>585137901427-dvq777shi0mq7cr8ht9vctec08k58hli.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.585137901427-dvq777shi0mq7cr8ht9vctec08k58hli</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCB8CqE4wshncYsaTWcmML2VajnIQlWI-s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>585137901427</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Po-Hsiang-Huang.Vibration</string>
+	<key>PROJECT_ID</key>
+	<string>vibration-pattern</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vibration-pattern.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:585137901427:ios:73a2fc14f603ee27</string>
+	<key>DATABASE_URL</key>
+	<string>https://vibration-pattern.firebaseio.com</string>
+</dict>
+</plist>
